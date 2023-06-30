@@ -1,0 +1,33 @@
+.header{
+    width:100%;
+    float:left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:#2b3039;
+}
+
+.logo{
+    width:25%;
+    float:left;
+    text-align: center;
+    img{
+        width:70px;
+    }
+}
+
+.nav{
+    width:75%;
+    float:left;
+    text-align: right;
+    padding-top: 25px;
+    font-size: 15px;
+    a{
+        text-decoration: none;
+        color:aliceblue;
+        margin-right:20px;
+    }
+}
+
+a:hover{
+    color:#fe8033;
+}
